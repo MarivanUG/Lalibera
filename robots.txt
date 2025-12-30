@@ -1,0 +1,11 @@
+# Block AI and SEO crawlers from the entire site
+User-agent: GPTBot
+User-agent: Amazonbot
+User-agent: SemrushBot
+User-agent: ClaudeBot
+User-agent: DotBot
+User-agent: MJ12bot
+User-agent: GeedoShopProductFinder
+User-agent: AhrefsBot
+User-agent: DataForSeoBot
+Disallow: /

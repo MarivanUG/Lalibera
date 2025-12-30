@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- This sitemap was dynamically generated on December 30, 2025 at 8:01 am by All in One SEO v4.9.1 - the original SEO plugin for WordPress. -->
+
+<?xml-stylesheet type="text/xsl" href="https://https://marivanug.github.io/Lalibera/main-sitemap.xsl"?>
+<urlset
+	xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+	xmlns:xhtml="http://www.w3.org/1999/xhtml"
+	xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+>
+	<url>
+		<loc><![CDATA[https://https://marivanug.github.io/Lalibera/accommodation/deluxe-double-room/]]></loc>
+		<lastmod><![CDATA[2025-07-17T09:33:49+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://https://marivanug.github.io/Lalibera/wp-content/uploads/2025/06/DELUXE.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://https://marivanug.github.io/Lalibera/accommodation/standard-double-room/]]></loc>
+		<lastmod><![CDATA[2025-07-10T14:40:38+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://https://marivanug.github.io/Lalibera/wp-content/uploads/2020/11/Standard2.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+</urlset>
