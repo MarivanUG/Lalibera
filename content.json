@@ -1,0 +1,31 @@
+{
+  "meta": {
+    "title": "Lalibera Classic Motel | Comfortable Stay in Mukono",
+    "description": "Lalibera Classic Motel offers clean rooms, warm service, dining and a peaceful stay along Kayunga Road in Mukono."
+  },
+  "hero": {
+    "eyebrow": "Mukono, Uganda",
+    "title": "Rest well. Feel welcome.",
+    "subtitle": "A calm, comfortable stopover with warm service, thoughtful rooms and easy access to Mukono.",
+    "cta_text": "Book Your Stay"
+  },
+  "contact": {
+    "address": "Highway Mall in Kikandwa, Along Kayunga Road",
+    "phone": ["+256 788305974", "+256 705197778"],
+    "email": "info@laliberaclassicmotel.com",
+    "email_alt": "laliberaclassicmotel@gmail.com",
+    "working_hours": "Open 24 Hours"
+  },
+  "pricing": {
+    "currency": "UGX",
+    "deluxe_single": 100000,
+    "deluxe_double": 145000,
+    "standard_single": 80000,
+    "standard_double": 125000
+  },
+  "reviews": [
+    {"name":"Juliet Namutebi","text":"Absolutely loved my stay. The staff were warm and welcoming, and the rooms were very clean and comfortable.","rating":5},
+    {"name":"Moses Kasumba","text":"A peaceful place in Mukono with welcoming service and good food.","rating":5},
+    {"name":"Grace Nakintu","text":"Very clean rooms and helpful staff. I felt safe and well looked after.","rating":5}
+  ]
+}

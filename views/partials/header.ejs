@@ -1,0 +1,17 @@
+<header>
+  <div class="container">
+    <nav class="nav">
+      <a class="brand" href="/"><img src="/images/logo-main-01.webp" alt="Lalibera Classic Motel"><span>Lalibera Classic Motel</span></a>
+      <button class="menu-toggle" type="button" aria-label="Toggle navigation" onclick="document.getElementById('navLinks').classList.toggle('open')">☰</button>
+      <div class="nav-links" id="navLinks">
+        <a href="/" class="<%= page==='home'?'active':'' %>">Home</a>
+        <a href="/about" class="<%= page==='about'?'active':'' %>">About</a>
+        <a href="/rooms" class="<%= page==='rooms'?'active':'' %>">Rooms</a>
+        <a href="/services" class="<%= page==='services'?'active':'' %>">Services</a>
+        <a href="/menu" class="<%= page==='menu'?'active':'' %>">Dining</a>
+        <a href="/contact" class="<%= page==='contact'?'active':'' %>">Contact</a>
+        <a href="/contact" class="btn btn-primary">Book now</a>
+      </div>
+    </nav>
+  </div>
+</header>
